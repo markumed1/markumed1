@@ -1,7 +1,7 @@
 - 👋 Aloha I’m @markumed1
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how to code
-- 💞️ I’m looking to collaborate on...HTML, CSS, JavaScript, and Python
+- 🌱 I have recently graduated a bootcamp out of the Tech Academy and currently doing continuing education.
+- 💞️ I’m looking to collaborate on...HTML, CSS, JavaScript/React, and Python
 - 📫 How to reach me ... medrano.marku@gmail.com
 
 <!---
