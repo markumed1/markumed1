@@ -1,7 +1,7 @@
-- 🤙🏽 Aloha I’m Mark
+- 🤙🏽 Aloha my name is Mark.
 - 🧑🏾‍💻 I enjoy coding and hoping to be a great Software Engineer some day.
 - 🌱 I am a bootcamp graduate out of the Tech Academy and currently continuing my learning by doing side projects. Please see my respositry for projects done or in progress.
-- 💞️ I’m looking to collaborate on...HTML, CSS, JavaScript, React.JS, and Python
+- 💞️ I’m looking to collaborate on...HTML, CSS, JavaScript, React.JS, and Python.
 - 📫 How to reach me ... medrano.marku@gmail.com
 
 <!---
