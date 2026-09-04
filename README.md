@@ -16,13 +16,13 @@ My unique competitive advantage is my background at the **physical layer of tech
 
 ### 🚀 Highlighted Project
 
-📁 **[IoT Field-Deployment & Automated QA Portal](https://github.com/markumed1/iot-field-commissioning-portal)**
+📁 **[IoT Field-Deployment & Automated QA Portal](https://github.com/markumed1/field-tech-app)**
 *A full-stack Python & JavaScript web application built to simulate edge-device network provisioning and automate electrical/MAC threshold validation checking for field deployment teams.*
 
 ---
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/markmedranotech/]
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/markmedranotech/)
 - 🎯 **Target Roles:** Software QA Engineer, Hardware Test Associate, Systems Integration/Deployment Specialist, Field Test Technician
 
 <!---
