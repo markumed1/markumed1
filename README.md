@@ -23,7 +23,7 @@ My unique competitive advantage is my background at the **physical layer of tech
 
 ### 📫 Let's Connect!
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/markmedranotech/)
-- 🎯 **Target Roles:** Software QA Engineer, Hardware Test Associate, Systems Integration/Deployment Specialist, Field Test Technician
+- 🎯 **Target Roles:** Software QA Engineer, Hardware Test Associate, Systems Integration/Deployment Specialist, Field Test Technician, Junior Software Dev
 
 <!---
 markumed1/markumed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
